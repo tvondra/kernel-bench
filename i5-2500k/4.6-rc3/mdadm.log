@@ -1,0 +1,5 @@
+mdadm --create data --level=10 --raid-devices 6 /dev/sda1 /dev/sdb1 /dev/sdc1 /dev/sdd1 /dev/sde1 /dev/sdf1
+
+mkfs.ext4 -E stride=128,stripe_width=384 /dev/md/data 
+
+/dev/md/bench:data      /mnt/pgdata     auto            defaults,noatime,nobarrier,noauto 0 0

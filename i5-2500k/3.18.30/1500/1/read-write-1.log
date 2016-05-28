@@ -1,0 +1,11 @@
+starting vacuum...end.
+transaction type: <builtin: TPC-B (sort of)>
+scaling factor: 1500
+query mode: simple
+number of clients: 1
+number of threads: 1
+duration: 1800 s
+number of transactions actually processed: 2057533
+latency average: 0.875 ms
+tps = 1143.072865 (including connections establishing)
+tps = 1143.073601 (excluding connections establishing)

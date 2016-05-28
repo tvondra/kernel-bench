@@ -1,0 +1,11 @@
+starting vacuum...end.
+transaction type: <builtin: select only>
+scaling factor: 30
+query mode: simple
+number of clients: 1
+number of threads: 1
+duration: 900 s
+number of transactions actually processed: 14623002
+latency average: 0.062 ms
+tps = 16247.778249 (including connections establishing)
+tps = 16247.798865 (excluding connections establishing)

@@ -1,0 +1,90 @@
+1462490434 2016-05-06 01:20:34 pgbench scale=30 run=1
+1462490434 2016-05-06 01:20:34 pgbench scale=30 run=1 : init
+1462490438 2016-05-06 01:20:38 pgbench scale=30 run=1 : warmup
+1462491338 2016-05-06 01:35:38 pgbench scale=30 run=1 clients=1 : read-only
+1462492238 2016-05-06 01:50:38 pgbench scale=30 run=1 clients=1 : read-write
+1462494040 2016-05-06 02:20:40 pgbench scale=30 run=1 clients=4 : read-only
+1462494940 2016-05-06 02:35:40 pgbench scale=30 run=1 clients=4 : read-write
+1462496742 2016-05-06 03:05:42 pgbench scale=30 run=1 clients=16 : read-only
+1462497643 2016-05-06 03:20:43 pgbench scale=30 run=1 clients=16 : read-write
+1462499443 2016-05-06 03:50:43 pgbench scale=30 clients=16 run=1 : done
+1462499443 2016-05-06 03:50:43 pgbench scale=30 run=2
+1462499443 2016-05-06 03:50:43 pgbench scale=30 run=2 : init
+1462499448 2016-05-06 03:50:48 pgbench scale=30 run=2 : warmup
+1462500348 2016-05-06 04:05:48 pgbench scale=30 run=2 clients=1 : read-only
+1462501248 2016-05-06 04:20:48 pgbench scale=30 run=2 clients=1 : read-write
+1462503049 2016-05-06 04:50:49 pgbench scale=30 run=2 clients=4 : read-only
+1462503950 2016-05-06 05:05:50 pgbench scale=30 run=2 clients=4 : read-write
+1462505751 2016-05-06 05:35:51 pgbench scale=30 run=2 clients=16 : read-only
+1462506652 2016-05-06 05:50:52 pgbench scale=30 run=2 clients=16 : read-write
+1462508452 2016-05-06 06:20:52 pgbench scale=30 clients=16 run=2 : done
+1462508452 2016-05-06 06:20:52 pgbench scale=30 run=3
+1462508453 2016-05-06 06:20:53 pgbench scale=30 run=3 : init
+1462508457 2016-05-06 06:20:57 pgbench scale=30 run=3 : warmup
+1462509357 2016-05-06 06:35:57 pgbench scale=30 run=3 clients=1 : read-only
+1462510257 2016-05-06 06:50:57 pgbench scale=30 run=3 clients=1 : read-write
+1462512058 2016-05-06 07:20:58 pgbench scale=30 run=3 clients=4 : read-only
+1462512959 2016-05-06 07:35:59 pgbench scale=30 run=3 clients=4 : read-write
+1462514761 2016-05-06 08:06:01 pgbench scale=30 run=3 clients=16 : read-only
+1462515662 2016-05-06 08:21:02 pgbench scale=30 run=3 clients=16 : read-write
+1462517462 2016-05-06 08:51:02 pgbench scale=30 clients=16 run=3 : done
+1462517462 2016-05-06 08:51:02 pgbench scale=300 run=1
+1462517463 2016-05-06 08:51:03 pgbench scale=300 run=1 : init
+1462517509 2016-05-06 08:51:49 pgbench scale=300 run=1 : warmup
+1462518409 2016-05-06 09:06:49 pgbench scale=300 run=1 clients=1 : read-only
+1462519309 2016-05-06 09:21:49 pgbench scale=300 run=1 clients=1 : read-write
+1462521111 2016-05-06 09:51:51 pgbench scale=300 run=1 clients=4 : read-only
+1462522011 2016-05-06 10:06:51 pgbench scale=300 run=1 clients=4 : read-write
+1462523813 2016-05-06 10:36:53 pgbench scale=300 run=1 clients=16 : read-only
+1462524715 2016-05-06 10:51:55 pgbench scale=300 run=1 clients=16 : read-write
+1462526515 2016-05-06 11:21:55 pgbench scale=300 clients=16 run=1 : done
+1462526515 2016-05-06 11:21:55 pgbench scale=300 run=2
+1462526516 2016-05-06 11:21:56 pgbench scale=300 run=2 : init
+1462526562 2016-05-06 11:22:42 pgbench scale=300 run=2 : warmup
+1462527462 2016-05-06 11:37:42 pgbench scale=300 run=2 clients=1 : read-only
+1462528362 2016-05-06 11:52:42 pgbench scale=300 run=2 clients=1 : read-write
+1462530164 2016-05-06 12:22:44 pgbench scale=300 run=2 clients=4 : read-only
+1462531064 2016-05-06 12:37:44 pgbench scale=300 run=2 clients=4 : read-write
+1462532866 2016-05-06 13:07:46 pgbench scale=300 run=2 clients=16 : read-only
+1462533768 2016-05-06 13:22:48 pgbench scale=300 run=2 clients=16 : read-write
+1462535568 2016-05-06 13:52:48 pgbench scale=300 clients=16 run=2 : done
+1462535568 2016-05-06 13:52:48 pgbench scale=300 run=3
+1462535569 2016-05-06 13:52:49 pgbench scale=300 run=3 : init
+1462535614 2016-05-06 13:53:34 pgbench scale=300 run=3 : warmup
+1462536514 2016-05-06 14:08:34 pgbench scale=300 run=3 clients=1 : read-only
+1462537414 2016-05-06 14:23:34 pgbench scale=300 run=3 clients=1 : read-write
+1462539216 2016-05-06 14:53:36 pgbench scale=300 run=3 clients=4 : read-only
+1462540116 2016-05-06 15:08:36 pgbench scale=300 run=3 clients=4 : read-write
+1462541918 2016-05-06 15:38:38 pgbench scale=300 run=3 clients=16 : read-only
+1462542819 2016-05-06 15:53:39 pgbench scale=300 run=3 clients=16 : read-write
+1462544619 2016-05-06 16:23:39 pgbench scale=300 clients=16 run=3 : done
+1462544619 2016-05-06 16:23:39 pgbench scale=1500 run=1
+1462544620 2016-05-06 16:23:40 pgbench scale=1500 run=1 : init
+1462544877 2016-05-06 16:27:57 pgbench scale=1500 run=1 : warmup
+1462545777 2016-05-06 16:42:57 pgbench scale=1500 run=1 clients=1 : read-only
+1462546677 2016-05-06 16:57:57 pgbench scale=1500 run=1 clients=1 : read-write
+1462548480 2016-05-06 17:28:00 pgbench scale=1500 run=1 clients=4 : read-only
+1462549381 2016-05-06 17:43:01 pgbench scale=1500 run=1 clients=4 : read-write
+1462551185 2016-05-06 18:13:05 pgbench scale=1500 run=1 clients=16 : read-only
+1462552086 2016-05-06 18:28:06 pgbench scale=1500 run=1 clients=16 : read-write
+1462553886 2016-05-06 18:58:06 pgbench scale=1500 clients=16 run=1 : done
+1462553886 2016-05-06 18:58:06 pgbench scale=1500 run=2
+1462553889 2016-05-06 18:58:09 pgbench scale=1500 run=2 : init
+1462554145 2016-05-06 19:02:25 pgbench scale=1500 run=2 : warmup
+1462555046 2016-05-06 19:17:26 pgbench scale=1500 run=2 clients=1 : read-only
+1462555946 2016-05-06 19:32:26 pgbench scale=1500 run=2 clients=1 : read-write
+1462557749 2016-05-06 20:02:29 pgbench scale=1500 run=2 clients=4 : read-only
+1462558650 2016-05-06 20:17:30 pgbench scale=1500 run=2 clients=4 : read-write
+1462560454 2016-05-06 20:47:34 pgbench scale=1500 run=2 clients=16 : read-only
+1462561355 2016-05-06 21:02:35 pgbench scale=1500 run=2 clients=16 : read-write
+1462563155 2016-05-06 21:32:35 pgbench scale=1500 clients=16 run=2 : done
+1462563155 2016-05-06 21:32:35 pgbench scale=1500 run=3
+1462563158 2016-05-06 21:32:38 pgbench scale=1500 run=3 : init
+1462563413 2016-05-06 21:36:53 pgbench scale=1500 run=3 : warmup
+1462564314 2016-05-06 21:51:54 pgbench scale=1500 run=3 clients=1 : read-only
+1462565214 2016-05-06 22:06:54 pgbench scale=1500 run=3 clients=1 : read-write
+1462567016 2016-05-06 22:36:56 pgbench scale=1500 run=3 clients=4 : read-only
+1462567918 2016-05-06 22:51:58 pgbench scale=1500 run=3 clients=4 : read-write
+1462569721 2016-05-06 23:22:01 pgbench scale=1500 run=3 clients=16 : read-only
+1462570622 2016-05-06 23:37:02 pgbench scale=1500 run=3 clients=16 : read-write
+1462572422 2016-05-07 00:07:02 pgbench scale=1500 clients=16 run=3 : done
