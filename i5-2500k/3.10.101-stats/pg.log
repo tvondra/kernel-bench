@@ -1,0 +1,347 @@
+1464617649.658 2016-05-30 16:14:09 CEST LOG:  could not bind IPv6 socket: Cannot assign requested address
+1464617649.658 2016-05-30 16:14:09 CEST HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+1464617649.673 2016-05-30 16:14:09 CEST LOG:  database system was shut down at 2016-05-30 16:13:12 CEST
+1464617649.673 2016-05-30 16:14:09 CEST LOG:  MultiXact member wraparound protections are now enabled
+1464617649.674 2016-05-30 16:14:09 CEST LOG:  database system is ready to accept connections
+1464617649.674 2016-05-30 16:14:09 CEST LOG:  autovacuum launcher started
+1464617706.731 2016-05-30 16:15:06 CEST LOG:  checkpoint starting: immediate force wait flush-all
+1464617706.737 2016-05-30 16:15:06 CEST LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.000 s, total=0.005 s; sync files=3, longest=0.000 s, average=0.000 s; distance=1 kB, estimate=1 kB
+1464617706.847 2016-05-30 16:15:06 CEST LOG:  checkpoint starting: immediate force wait
+1464617706.849 2016-05-30 16:15:06 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=1 kB
+1464618606.618 2016-05-30 16:30:06 CEST LOG:  checkpoint starting: time
+1464618611.755 2016-05-30 16:30:11 CEST LOG:  checkpoint complete: wrote 2121 buffers (1.6%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=5.118 s, sync=0.017 s, total=5.137 s; sync files=44, longest=0.017 s, average=0.000 s; distance=3294 kB, estimate=3294 kB
+1464618611.755 2016-05-30 16:30:11 CEST LOG:  checkpoint starting: immediate force wait
+1464618611.758 2016-05-30 16:30:11 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=2965 kB
+1464619511.850 2016-05-30 16:45:11 CEST LOG:  checkpoint starting: immediate force wait time
+1464619511.853 2016-05-30 16:45:11 CEST LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.000 s, total=0.003 s; sync files=4, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=2670 kB
+1464620411.954 2016-05-30 17:00:11 CEST LOG:  checkpoint starting: time
+1464620861.110 2016-05-30 17:07:41 CEST LOG:  checkpoint complete: wrote 70573 buffers (53.8%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.132 s, sync=0.005 s, total=449.155 s; sync files=21, longest=0.005 s, average=0.000 s; distance=1215521 kB, estimate=1215521 kB
+1464621311.210 2016-05-30 17:15:11 CEST LOG:  checkpoint starting: time
+1464621313.019 2016-05-30 17:15:13 CEST LOG:  checkpoint complete: wrote 70909 buffers (54.1%); 0 transaction log file(s) added, 0 removed, 74 recycled; write=1.576 s, sync=0.207 s, total=1.809 s; sync files=17, longest=0.207 s, average=0.012 s; distance=1214967 kB, estimate=1215466 kB
+1464621313.019 2016-05-30 17:15:13 CEST LOG:  checkpoint starting: immediate force wait
+1464621313.053 2016-05-30 17:15:13 CEST LOG:  checkpoint complete: wrote 33 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 74 recycled; write=0.002 s, sync=0.000 s, total=0.033 s; sync files=3, longest=0.000 s, average=0.000 s; distance=11470 kB, estimate=1095066 kB
+1464622213.131 2016-05-30 17:30:13 CEST LOG:  checkpoint starting: immediate force wait time
+1464622213.914 2016-05-30 17:30:13 CEST LOG:  checkpoint complete: wrote 58339 buffers (44.5%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=0.561 s, sync=0.220 s, total=0.783 s; sync files=12, longest=0.201 s, average=0.018 s; distance=394675 kB, estimate=1025027 kB
+1464623114.015 2016-05-30 17:45:14 CEST LOG:  checkpoint starting: time
+1464623564.050 2016-05-30 17:52:44 CEST LOG:  checkpoint complete: wrote 97624 buffers (74.5%); 0 transaction log file(s) added, 0 removed, 24 recycled; write=449.999 s, sync=0.003 s, total=450.034 s; sync files=20, longest=0.003 s, average=0.000 s; distance=2838549 kB, estimate=2838549 kB
+1464624013.974 2016-05-30 18:00:13 CEST LOG:  checkpoint starting: immediate force wait
+1464624015.142 2016-05-30 18:00:15 CEST LOG:  checkpoint complete: wrote 78332 buffers (59.8%); 0 transaction log file(s) added, 0 removed, 173 recycled; write=1.059 s, sync=0.045 s, total=1.167 s; sync files=17, longest=0.042 s, average=0.002 s; distance=2783381 kB, estimate=2833032 kB
+1464624913.218 2016-05-30 18:15:13 CEST LOG:  checkpoint starting: time
+1464624916.117 2016-05-30 18:15:16 CEST LOG:  checkpoint complete: wrote 58091 buffers (44.3%); 0 transaction log file(s) added, 0 removed, 170 recycled; write=2.818 s, sync=0.018 s, total=2.899 s; sync files=15, longest=0.018 s, average=0.001 s; distance=403462 kB, estimate=2590075 kB
+1464624916.117 2016-05-30 18:15:16 CEST LOG:  checkpoint starting: immediate force wait
+1464624916.130 2016-05-30 18:15:16 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 25 recycled; write=0.001 s, sync=0.000 s, total=0.012 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=2331068 kB
+1464625816.232 2016-05-30 18:30:16 CEST LOG:  checkpoint starting: time
+1464626266.028 2016-05-30 18:37:46 CEST LOG:  checkpoint complete: wrote 106896 buffers (81.6%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.765 s, sync=0.006 s, total=449.795 s; sync files=20, longest=0.005 s, average=0.000 s; distance=3515924 kB, estimate=3515924 kB
+1464626716.129 2016-05-30 18:45:16 CEST LOG:  checkpoint starting: time
+1464626716.363 2016-05-30 18:45:16 CEST LOG:  checkpoint complete: wrote 71 buffers (0.1%); 0 transaction log file(s) added, 0 removed, 214 recycled; write=0.151 s, sync=0.000 s, total=0.234 s; sync files=0, longest=0.000 s, average=0.000 s; distance=3483897 kB, estimate=3512721 kB
+1464626716.363 2016-05-30 18:45:16 CEST LOG:  checkpoint starting: immediate force wait
+1464626716.456 2016-05-30 18:45:16 CEST LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 213 recycled; write=0.001 s, sync=0.000 s, total=0.092 s; sync files=1, longest=0.000 s, average=0.000 s; distance=5177 kB, estimate=3161967 kB
+1464626716.505 2016-05-30 18:45:16 CEST LOG:  checkpoint starting: immediate force wait flush-all
+1464626716.509 2016-05-30 18:45:16 CEST LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.000 s, total=0.004 s; sync files=3, longest=0.000 s, average=0.000 s; distance=2 kB, estimate=2845770 kB
+1464626716.620 2016-05-30 18:45:16 CEST LOG:  checkpoint starting: immediate force wait
+1464626716.623 2016-05-30 18:45:16 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=2561193 kB
+1464627616.452 2016-05-30 19:00:16 CEST LOG:  checkpoint starting: time
+1464627621.647 2016-05-30 19:00:21 CEST LOG:  checkpoint complete: wrote 2121 buffers (1.6%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=5.170 s, sync=0.022 s, total=5.194 s; sync files=44, longest=0.020 s, average=0.000 s; distance=3294 kB, estimate=2305403 kB
+1464627621.647 2016-05-30 19:00:21 CEST LOG:  checkpoint starting: immediate force wait
+1464627621.651 2016-05-30 19:00:21 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=2074863 kB
+1464628521.738 2016-05-30 19:15:21 CEST LOG:  checkpoint starting: immediate force wait time
+1464628521.742 2016-05-30 19:15:21 CEST LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.000 s, total=0.003 s; sync files=4, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=1867378 kB
+1464629421.761 2016-05-30 19:30:21 CEST LOG:  checkpoint starting: time
+1464629871.021 2016-05-30 19:37:51 CEST LOG:  checkpoint complete: wrote 70626 buffers (53.9%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.249 s, sync=0.005 s, total=449.259 s; sync files=21, longest=0.003 s, average=0.000 s; distance=1217126 kB, estimate=1802353 kB
+1464630321.034 2016-05-30 19:45:21 CEST LOG:  checkpoint starting: time
+1464630322.860 2016-05-30 19:45:22 CEST LOG:  checkpoint complete: wrote 70891 buffers (54.1%); 0 transaction log file(s) added, 0 removed, 74 recycled; write=1.565 s, sync=0.224 s, total=1.826 s; sync files=17, longest=0.223 s, average=0.013 s; distance=1214521 kB, estimate=1743569 kB
+1464630322.860 2016-05-30 19:45:22 CEST LOG:  checkpoint starting: immediate force wait
+1464630322.898 2016-05-30 19:45:22 CEST LOG:  checkpoint complete: wrote 30 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 74 recycled; write=0.002 s, sync=0.000 s, total=0.037 s; sync files=2, longest=0.000 s, average=0.000 s; distance=13345 kB, estimate=1570547 kB
+1464631222.998 2016-05-30 20:00:22 CEST LOG:  checkpoint starting: time
+1464631223.788 2016-05-30 20:00:23 CEST LOG:  checkpoint complete: wrote 58331 buffers (44.5%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=0.556 s, sync=0.231 s, total=0.790 s; sync files=13, longest=0.231 s, average=0.017 s; distance=394634 kB, estimate=1452956 kB
+1464631223.788 2016-05-30 20:00:23 CEST LOG:  checkpoint starting: immediate force wait
+1464631223.801 2016-05-30 20:00:23 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 24 recycled; write=0.001 s, sync=0.000 s, total=0.013 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=1307660 kB
+1464632123.902 2016-05-30 20:15:23 CEST LOG:  checkpoint starting: time
+1464632573.045 2016-05-30 20:22:53 CEST LOG:  checkpoint complete: wrote 97599 buffers (74.5%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.101 s, sync=0.018 s, total=449.142 s; sync files=20, longest=0.014 s, average=0.000 s; distance=2838915 kB, estimate=2838915 kB
+1464633023.147 2016-05-30 20:30:23 CEST LOG:  checkpoint starting: time
+1464633025.028 2016-05-30 20:30:25 CEST LOG:  checkpoint complete: wrote 78448 buffers (59.9%); 0 transaction log file(s) added, 0 removed, 173 recycled; write=1.772 s, sync=0.045 s, total=1.881 s; sync files=17, longest=0.037 s, average=0.002 s; distance=2797766 kB, estimate=2834800 kB
+1464633025.028 2016-05-30 20:30:25 CEST LOG:  checkpoint starting: immediate force wait
+1464633025.105 2016-05-30 20:30:25 CEST LOG:  checkpoint complete: wrote 44 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 171 recycled; write=0.002 s, sync=0.000 s, total=0.077 s; sync files=2, longest=0.000 s, average=0.000 s; distance=34426 kB, estimate=2554763 kB
+1464633925.205 2016-05-30 20:45:25 CEST LOG:  checkpoint starting: time
+1464633926.063 2016-05-30 20:45:26 CEST LOG:  checkpoint complete: wrote 57951 buffers (44.2%); 0 transaction log file(s) added, 0 removed, 2 recycled; write=0.841 s, sync=0.014 s, total=0.858 s; sync files=15, longest=0.008 s, average=0.000 s; distance=403564 kB, estimate=2339643 kB
+1464633926.063 2016-05-30 20:45:26 CEST LOG:  checkpoint starting: immediate force wait
+1464633926.079 2016-05-30 20:45:26 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 25 recycled; write=0.001 s, sync=0.000 s, total=0.015 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=2105679 kB
+1464634826.181 2016-05-30 21:00:26 CEST LOG:  checkpoint starting: time
+1464635276.077 2016-05-30 21:07:56 CEST LOG:  checkpoint complete: wrote 106918 buffers (81.6%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.867 s, sync=0.003 s, total=449.895 s; sync files=20, longest=0.002 s, average=0.000 s; distance=3514438 kB, estimate=3514438 kB
+1464635726.179 2016-05-30 21:15:26 CEST LOG:  checkpoint starting: time
+1464635726.289 2016-05-30 21:15:26 CEST LOG:  checkpoint complete: wrote 36 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 214 recycled; write=0.036 s, sync=0.000 s, total=0.110 s; sync files=0, longest=0.000 s, average=0.000 s; distance=3439621 kB, estimate=3506956 kB
+1464635726.289 2016-05-30 21:15:26 CEST LOG:  checkpoint starting: immediate force wait
+1464635726.380 2016-05-30 21:15:26 CEST LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 210 recycled; write=0.001 s, sync=0.000 s, total=0.091 s; sync files=1, longest=0.000 s, average=0.000 s; distance=1 kB, estimate=3156261 kB
+1464635726.430 2016-05-30 21:15:26 CEST LOG:  checkpoint starting: immediate force wait flush-all
+1464635726.434 2016-05-30 21:15:26 CEST LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.000 s, total=0.004 s; sync files=3, longest=0.000 s, average=0.000 s; distance=2 kB, estimate=2840635 kB
+1464635726.545 2016-05-30 21:15:26 CEST LOG:  checkpoint starting: immediate force wait
+1464635726.548 2016-05-30 21:15:26 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=2556571 kB
+1464636626.379 2016-05-30 21:30:26 CEST LOG:  checkpoint starting: time
+1464636631.579 2016-05-30 21:30:31 CEST LOG:  checkpoint complete: wrote 2121 buffers (1.6%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=5.181 s, sync=0.018 s, total=5.200 s; sync files=44, longest=0.017 s, average=0.000 s; distance=3294 kB, estimate=2301244 kB
+1464636631.579 2016-05-30 21:30:31 CEST LOG:  checkpoint starting: immediate force wait
+1464636631.582 2016-05-30 21:30:31 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=2071119 kB
+1464637531.675 2016-05-30 21:45:31 CEST LOG:  checkpoint starting: immediate force wait time
+1464637531.678 2016-05-30 21:45:31 CEST LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.000 s, total=0.003 s; sync files=4, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=1864009 kB
+1464638431.779 2016-05-30 22:00:31 CEST LOG:  checkpoint starting: time
+1464638881.038 2016-05-30 22:08:01 CEST LOG:  checkpoint complete: wrote 70576 buffers (53.8%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.249 s, sync=0.003 s, total=449.259 s; sync files=21, longest=0.003 s, average=0.000 s; distance=1214669 kB, estimate=1799075 kB
+1464639331.138 2016-05-30 22:15:31 CEST LOG:  checkpoint starting: time
+1464639332.814 2016-05-30 22:15:32 CEST LOG:  checkpoint complete: wrote 70898 buffers (54.1%); 0 transaction log file(s) added, 0 removed, 75 recycled; write=1.386 s, sync=0.235 s, total=1.675 s; sync files=16, longest=0.235 s, average=0.014 s; distance=1213027 kB, estimate=1740470 kB
+1464639332.814 2016-05-30 22:15:32 CEST LOG:  checkpoint starting: immediate force wait
+1464639332.852 2016-05-30 22:15:32 CEST LOG:  checkpoint complete: wrote 28 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 74 recycled; write=0.002 s, sync=0.000 s, total=0.038 s; sync files=2, longest=0.000 s, average=0.000 s; distance=10603 kB, estimate=1567483 kB
+1464640232.856 2016-05-30 22:30:32 CEST LOG:  checkpoint starting: time
+1464640233.814 2016-05-30 22:30:33 CEST LOG:  checkpoint complete: wrote 58353 buffers (44.5%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.714 s, sync=0.242 s, total=0.958 s; sync files=13, longest=0.122 s, average=0.018 s; distance=394781 kB, estimate=1450213 kB
+1464640233.814 2016-05-30 22:30:33 CEST LOG:  checkpoint starting: immediate force wait
+1464640233.829 2016-05-30 22:30:33 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 24 recycled; write=0.001 s, sync=0.000 s, total=0.014 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=1305192 kB
+1464641133.931 2016-05-30 22:45:33 CEST LOG:  checkpoint starting: time
+1464641583.063 2016-05-30 22:53:03 CEST LOG:  checkpoint complete: wrote 97698 buffers (74.5%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.104 s, sync=0.016 s, total=449.132 s; sync files=20, longest=0.013 s, average=0.000 s; distance=2844538 kB, estimate=2844538 kB
+1464642033.166 2016-05-30 23:00:33 CEST LOG:  checkpoint starting: time
+1464642035.040 2016-05-30 23:00:35 CEST LOG:  checkpoint complete: wrote 78425 buffers (59.8%); 0 transaction log file(s) added, 0 removed, 174 recycled; write=1.767 s, sync=0.041 s, total=1.873 s; sync files=17, longest=0.040 s, average=0.002 s; distance=2792474 kB, estimate=2839331 kB
+1464642035.040 2016-05-30 23:00:35 CEST LOG:  checkpoint starting: immediate force wait
+1464642035.119 2016-05-30 23:00:35 CEST LOG:  checkpoint complete: wrote 47 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 170 recycled; write=0.002 s, sync=0.000 s, total=0.079 s; sync files=3, longest=0.000 s, average=0.000 s; distance=34301 kB, estimate=2558828 kB
+1464642935.219 2016-05-30 23:15:35 CEST LOG:  checkpoint starting: time
+1464642936.103 2016-05-30 23:15:36 CEST LOG:  checkpoint complete: wrote 57861 buffers (44.1%); 0 transaction log file(s) added, 0 removed, 2 recycled; write=0.866 s, sync=0.014 s, total=0.883 s; sync files=15, longest=0.009 s, average=0.000 s; distance=403477 kB, estimate=2343293 kB
+1464642936.103 2016-05-30 23:15:36 CEST LOG:  checkpoint starting: immediate force wait
+1464642936.117 2016-05-30 23:15:36 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 25 recycled; write=0.001 s, sync=0.000 s, total=0.014 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=2108964 kB
+1464643836.219 2016-05-30 23:30:36 CEST LOG:  checkpoint starting: time
+1464644286.027 2016-05-30 23:38:06 CEST LOG:  checkpoint complete: wrote 106587 buffers (81.3%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.767 s, sync=0.014 s, total=449.807 s; sync files=20, longest=0.007 s, average=0.000 s; distance=3498922 kB, estimate=3498922 kB
+1464644736.129 2016-05-30 23:45:36 CEST LOG:  checkpoint starting: time
+1464644736.313 2016-05-30 23:45:36 CEST LOG:  checkpoint complete: wrote 33 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 214 recycled; write=0.102 s, sync=0.000 s, total=0.184 s; sync files=0, longest=0.000 s, average=0.000 s; distance=3421381 kB, estimate=3491168 kB
+1464644736.313 2016-05-30 23:45:36 CEST LOG:  checkpoint starting: immediate force wait
+1464644736.404 2016-05-30 23:45:36 CEST LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 208 recycled; write=0.001 s, sync=0.000 s, total=0.091 s; sync files=1, longest=0.000 s, average=0.000 s; distance=2000 kB, estimate=3142251 kB
+1464644736.587 2016-05-30 23:45:36 CEST LOG:  checkpoint starting: immediate force wait flush-all
+1464644736.591 2016-05-30 23:45:36 CEST LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=0.002 s, sync=0.000 s, total=0.004 s; sync files=3, longest=0.000 s, average=0.000 s; distance=2 kB, estimate=2828026 kB
+1464644736.702 2016-05-30 23:45:36 CEST LOG:  checkpoint starting: immediate force wait
+1464644736.704 2016-05-30 23:45:36 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=2545223 kB
+1464645636.677 2016-05-31 00:00:36 CEST LOG:  checkpoint starting: time
+1464645636.681 2016-05-31 00:00:36 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=47, longest=0.000 s, average=0.000 s; distance=31369 kB, estimate=2293838 kB
+1464645687.903 2016-05-31 00:01:27 CEST LOG:  checkpoint starting: immediate force wait
+1464645687.907 2016-05-31 00:01:27 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=0.001 s, sync=0.000 s, total=0.004 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=2064454 kB
+1464646588.007 2016-05-31 00:16:28 CEST LOG:  checkpoint starting: time
+1464646588.010 2016-05-31 00:16:28 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=4, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=1858010 kB
+1464646588.029 2016-05-31 00:16:28 CEST LOG:  checkpoint starting: immediate force wait
+1464646588.032 2016-05-31 00:16:28 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=1672209 kB
+1464647488.189 2016-05-31 00:31:28 CEST LOG:  checkpoint starting: time
+1464647938.062 2016-05-31 00:38:58 CEST LOG:  checkpoint complete: wrote 5234 buffers (4.0%); 1 transaction log file(s) added, 0 removed, 0 recycled; write=449.824 s, sync=0.006 s, total=449.873 s; sync files=24, longest=0.004 s, average=0.000 s; distance=5111145 kB, estimate=5111145 kB
+1464648388.160 2016-05-31 00:46:28 CEST LOG:  checkpoint starting: immediate force wait time
+1464648390.019 2016-05-31 00:46:30 CEST LOG:  checkpoint complete: wrote 85699 buffers (65.4%); 0 transaction log file(s) added, 0 removed, 311 recycled; write=1.720 s, sync=0.026 s, total=1.858 s; sync files=21, longest=0.013 s, average=0.001 s; distance=4697094 kB, estimate=5069740 kB
+1464649288.164 2016-05-31 01:01:28 CEST LOG:  checkpoint starting: time
+1464649290.247 2016-05-31 01:01:30 CEST LOG:  checkpoint complete: wrote 539 buffers (0.4%); 0 transaction log file(s) added, 0 removed, 287 recycled; write=1.977 s, sync=0.002 s, total=2.082 s; sync files=19, longest=0.001 s, average=0.000 s; distance=3869446 kB, estimate=4949710 kB
+1464649290.247 2016-05-31 01:01:30 CEST LOG:  checkpoint starting: immediate force wait
+1464649290.372 2016-05-31 01:01:30 CEST LOG:  checkpoint complete: wrote 406 buffers (0.3%); 0 transaction log file(s) added, 0 removed, 236 recycled; write=0.006 s, sync=0.001 s, total=0.125 s; sync files=2, longest=0.001 s, average=0.000 s; distance=0 kB, estimate=4454739 kB
+1464650190.631 2016-05-31 01:16:30 CEST LOG:  checkpoint starting: time
+1464650640.037 2016-05-31 01:24:00 CEST LOG:  checkpoint complete: wrote 6184 buffers (4.7%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.381 s, sync=0.012 s, total=449.405 s; sync files=25, longest=0.008 s, average=0.000 s; distance=6764847 kB, estimate=6764847 kB
+1464651090.493 2016-05-31 01:31:30 CEST LOG:  checkpoint starting: immediate force wait time
+1464651092.240 2016-05-31 01:31:32 CEST LOG:  checkpoint complete: wrote 86903 buffers (66.3%); 0 transaction log file(s) added, 0 removed, 413 recycled; write=1.573 s, sync=0.012 s, total=1.747 s; sync files=21, longest=0.005 s, average=0.000 s; distance=6546310 kB, estimate=6742993 kB
+1464651990.843 2016-05-31 01:46:30 CEST LOG:  checkpoint starting: time
+1464651992.622 2016-05-31 01:46:32 CEST LOG:  checkpoint complete: wrote 399 buffers (0.3%); 0 transaction log file(s) added, 0 removed, 400 recycled; write=1.602 s, sync=0.002 s, total=1.778 s; sync files=18, longest=0.000 s, average=0.000 s; distance=3913665 kB, estimate=6460060 kB
+1464651992.622 2016-05-31 01:46:32 CEST LOG:  checkpoint starting: immediate force wait
+1464651992.779 2016-05-31 01:46:32 CEST LOG:  checkpoint complete: wrote 227 buffers (0.2%); 0 transaction log file(s) added, 0 removed, 239 recycled; write=0.004 s, sync=0.000 s, total=0.156 s; sync files=2, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=5814054 kB
+1464652892.892 2016-05-31 02:01:32 CEST LOG:  checkpoint starting: time
+1464653342.067 2016-05-31 02:09:02 CEST LOG:  checkpoint complete: wrote 6379 buffers (4.9%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.134 s, sync=0.018 s, total=449.175 s; sync files=23, longest=0.013 s, average=0.000 s; distance=7213240 kB, estimate=7213240 kB
+1464653792.181 2016-05-31 02:16:32 CEST LOG:  checkpoint starting: time
+1464653792.948 2016-05-31 02:16:32 CEST FATAL:  terminating autovacuum process due to administrator command
+1464653793.245 2016-05-31 02:16:33 CEST LOG:  checkpoint complete: wrote 455 buffers (0.3%); 0 transaction log file(s) added, 0 removed, 440 recycled; write=0.887 s, sync=0.000 s, total=1.064 s; sync files=0, longest=0.000 s, average=0.000 s; distance=7185234 kB, estimate=7210439 kB
+1464653793.245 2016-05-31 02:16:33 CEST LOG:  checkpoint starting: immediate force wait
+1464653793.510 2016-05-31 02:16:33 CEST LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 438 recycled; write=0.003 s, sync=0.000 s, total=0.264 s; sync files=1, longest=0.000 s, average=0.000 s; distance=33822 kB, estimate=6492777 kB
+1464653794.143 2016-05-31 02:16:34 CEST LOG:  checkpoint starting: immediate force wait flush-all
+1464653794.151 2016-05-31 02:16:34 CEST LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 3 recycled; write=0.002 s, sync=0.000 s, total=0.008 s; sync files=3, longest=0.000 s, average=0.000 s; distance=2 kB, estimate=5843500 kB
+1464653794.343 2016-05-31 02:16:34 CEST LOG:  checkpoint starting: immediate force wait
+1464653794.345 2016-05-31 02:16:34 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=5259150 kB
+1464654694.172 2016-05-31 02:31:34 CEST LOG:  checkpoint starting: time
+1464654694.176 2016-05-31 02:31:34 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=47, longest=0.000 s, average=0.000 s; distance=31369 kB, estimate=4736372 kB
+1464654746.472 2016-05-31 02:32:26 CEST LOG:  checkpoint starting: immediate force wait
+1464654746.477 2016-05-31 02:32:26 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=0.001 s, sync=0.000 s, total=0.004 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=4262735 kB
+1464655646.577 2016-05-31 02:47:26 CEST LOG:  checkpoint starting: time
+1464655646.580 2016-05-31 02:47:26 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=4, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=3836462 kB
+1464655646.597 2016-05-31 02:47:26 CEST LOG:  checkpoint starting: immediate force wait
+1464655646.600 2016-05-31 02:47:26 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=3452816 kB
+1464656546.507 2016-05-31 03:02:26 CEST LOG:  checkpoint starting: time
+1464656996.040 2016-05-31 03:09:56 CEST LOG:  checkpoint complete: wrote 5002 buffers (3.8%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.522 s, sync=0.004 s, total=449.532 s; sync files=24, longest=0.002 s, average=0.000 s; distance=5102855 kB, estimate=5102855 kB
+1464657446.687 2016-05-31 03:17:26 CEST LOG:  checkpoint starting: time
+1464657448.832 2016-05-31 03:17:28 CEST LOG:  checkpoint complete: wrote 89037 buffers (67.9%); 0 transaction log file(s) added, 0 removed, 312 recycled; write=1.942 s, sync=0.035 s, total=2.144 s; sync files=21, longest=0.024 s, average=0.001 s; distance=4762620 kB, estimate=5068832 kB
+1464657448.832 2016-05-31 03:17:28 CEST LOG:  checkpoint starting: immediate force wait
+1464657449.026 2016-05-31 03:17:29 CEST LOG:  checkpoint complete: wrote 20 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 291 recycled; write=0.002 s, sync=0.000 s, total=0.193 s; sync files=5, longest=0.000 s, average=0.000 s; distance=560 kB, estimate=4562005 kB
+1464658348.827 2016-05-31 03:32:28 CEST LOG:  checkpoint starting: time
+1464658349.105 2016-05-31 03:32:29 CEST LOG:  checkpoint complete: wrote 891 buffers (0.7%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.273 s, sync=0.003 s, total=0.277 s; sync files=18, longest=0.002 s, average=0.000 s; distance=3867779 kB, estimate=4492582 kB
+1464658349.105 2016-05-31 03:32:29 CEST LOG:  checkpoint starting: immediate force wait
+1464658349.261 2016-05-31 03:32:29 CEST LOG:  checkpoint complete: wrote 52 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 236 recycled; write=0.002 s, sync=0.000 s, total=0.155 s; sync files=2, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=4043324 kB
+1464659249.629 2016-05-31 03:47:29 CEST LOG:  checkpoint starting: time
+1464659699.044 2016-05-31 03:54:59 CEST LOG:  checkpoint complete: wrote 5706 buffers (4.4%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.383 s, sync=0.010 s, total=449.414 s; sync files=25, longest=0.008 s, average=0.000 s; distance=6735449 kB, estimate=6735449 kB
+1464660149.309 2016-05-31 04:02:29 CEST LOG:  checkpoint starting: time
+1464660150.985 2016-05-31 04:02:30 CEST LOG:  checkpoint complete: wrote 80941 buffers (61.8%); 0 transaction log file(s) added, 0 removed, 411 recycled; write=1.492 s, sync=0.012 s, total=1.676 s; sync files=19, longest=0.009 s, average=0.000 s; distance=6608709 kB, estimate=6722775 kB
+1464660150.985 2016-05-31 04:02:30 CEST LOG:  checkpoint starting: immediate force wait
+1464660151.244 2016-05-31 04:02:31 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 403 recycled; write=0.001 s, sync=0.000 s, total=0.258 s; sync files=0, longest=0.000 s, average=0.000 s; distance=306 kB, estimate=6050528 kB
+1464661051.071 2016-05-31 04:17:31 CEST LOG:  checkpoint starting: time
+1464661051.508 2016-05-31 04:17:31 CEST LOG:  checkpoint complete: wrote 585 buffers (0.4%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.433 s, sync=0.001 s, total=0.437 s; sync files=18, longest=0.001 s, average=0.000 s; distance=3914609 kB, estimate=5836936 kB
+1464661051.508 2016-05-31 04:17:31 CEST LOG:  checkpoint starting: immediate force wait
+1464661051.672 2016-05-31 04:17:31 CEST LOG:  checkpoint complete: wrote 31 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 239 recycled; write=0.002 s, sync=0.000 s, total=0.163 s; sync files=1, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=5253242 kB
+1464661951.248 2016-05-31 04:32:31 CEST LOG:  checkpoint starting: time
+1464662401.099 2016-05-31 04:40:01 CEST LOG:  checkpoint complete: wrote 6712 buffers (5.1%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.831 s, sync=0.005 s, total=449.850 s; sync files=23, longest=0.001 s, average=0.000 s; distance=7264580 kB, estimate=7264580 kB
+1464662851.235 2016-05-31 04:47:31 CEST LOG:  checkpoint starting: time
+1464662852.020 2016-05-31 04:47:32 CEST LOG:  checkpoint complete: wrote 345 buffers (0.3%); 0 transaction log file(s) added, 0 removed, 443 recycled; write=0.604 s, sync=0.000 s, total=0.784 s; sync files=0, longest=0.000 s, average=0.000 s; distance=7199517 kB, estimate=7258074 kB
+1464662852.020 2016-05-31 04:47:32 CEST LOG:  checkpoint starting: immediate force wait
+1464662852.289 2016-05-31 04:47:32 CEST LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 440 recycled; write=0.001 s, sync=0.000 s, total=0.268 s; sync files=1, longest=0.000 s, average=0.000 s; distance=26147 kB, estimate=6534881 kB
+1464662852.912 2016-05-31 04:47:32 CEST LOG:  checkpoint starting: immediate force wait flush-all
+1464662852.920 2016-05-31 04:47:32 CEST LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 2 recycled; write=0.002 s, sync=0.000 s, total=0.007 s; sync files=3, longest=0.000 s, average=0.000 s; distance=3 kB, estimate=5881393 kB
+1464662853.128 2016-05-31 04:47:33 CEST LOG:  checkpoint starting: immediate force wait
+1464662853.131 2016-05-31 04:47:33 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=5293254 kB
+1464663753.351 2016-05-31 05:02:33 CEST LOG:  checkpoint starting: time
+1464663753.355 2016-05-31 05:02:33 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=47, longest=0.000 s, average=0.000 s; distance=31369 kB, estimate=4767066 kB
+1464663804.607 2016-05-31 05:03:24 CEST LOG:  checkpoint starting: immediate force wait
+1464663804.612 2016-05-31 05:03:24 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=0.002 s, sync=0.000 s, total=0.005 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=4290359 kB
+1464664704.712 2016-05-31 05:18:24 CEST LOG:  checkpoint starting: time
+1464664704.716 2016-05-31 05:18:24 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=4, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=3861324 kB
+1464664704.732 2016-05-31 05:18:24 CEST LOG:  checkpoint starting: immediate force wait
+1464664704.735 2016-05-31 05:18:24 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=3475192 kB
+1464665604.604 2016-05-31 05:33:24 CEST LOG:  checkpoint starting: time
+1464666054.052 2016-05-31 05:40:54 CEST LOG:  checkpoint complete: wrote 5089 buffers (3.9%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.422 s, sync=0.007 s, total=449.447 s; sync files=24, longest=0.005 s, average=0.000 s; distance=5118765 kB, estimate=5118765 kB
+1464666504.759 2016-05-31 05:48:24 CEST LOG:  checkpoint starting: time
+1464666507.081 2016-05-31 05:48:27 CEST LOG:  checkpoint complete: wrote 82928 buffers (63.3%); 0 transaction log file(s) added, 0 removed, 313 recycled; write=2.132 s, sync=0.030 s, total=2.321 s; sync files=22, longest=0.027 s, average=0.001 s; distance=4747367 kB, estimate=5081626 kB
+1464666507.081 2016-05-31 05:48:27 CEST LOG:  checkpoint starting: immediate force wait
+1464666507.286 2016-05-31 05:48:27 CEST LOG:  checkpoint complete: wrote 265 buffers (0.2%); 0 transaction log file(s) added, 0 removed, 290 recycled; write=0.004 s, sync=0.002 s, total=0.205 s; sync files=7, longest=0.002 s, average=0.000 s; distance=1935 kB, estimate=4573657 kB
+1464666508.392 2016-05-31 05:48:28 CEST ERROR:  canceling autovacuum task
+1464666508.392 2016-05-31 05:48:28 CEST CONTEXT:  automatic analyze of table "pgbench.public.pgbench_history"
+1464667408.055 2016-05-31 06:03:28 CEST LOG:  checkpoint starting: time
+1464667408.447 2016-05-31 06:03:28 CEST LOG:  checkpoint complete: wrote 881 buffers (0.7%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.387 s, sync=0.003 s, total=0.391 s; sync files=18, longest=0.002 s, average=0.000 s; distance=3868566 kB, estimate=4503148 kB
+1464667408.447 2016-05-31 06:03:28 CEST LOG:  checkpoint starting: immediate force wait
+1464667408.607 2016-05-31 06:03:28 CEST LOG:  checkpoint complete: wrote 63 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 236 recycled; write=0.002 s, sync=0.000 s, total=0.159 s; sync files=2, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=4052833 kB
+1464668308.054 2016-05-31 06:18:28 CEST LOG:  checkpoint starting: time
+1464668758.077 2016-05-31 06:25:58 CEST LOG:  checkpoint complete: wrote 5730 buffers (4.4%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.996 s, sync=0.015 s, total=450.022 s; sync files=25, longest=0.013 s, average=0.000 s; distance=6739903 kB, estimate=6739903 kB
+1464669208.684 2016-05-31 06:33:28 CEST LOG:  checkpoint starting: immediate force wait time
+1464669210.374 2016-05-31 06:33:30 CEST LOG:  checkpoint complete: wrote 81472 buffers (62.2%); 0 transaction log file(s) added, 0 removed, 411 recycled; write=1.509 s, sync=0.010 s, total=1.690 s; sync files=21, longest=0.009 s, average=0.000 s; distance=6608165 kB, estimate=6726729 kB
+1464670108.792 2016-05-31 06:48:28 CEST LOG:  checkpoint starting: time
+1464670110.737 2016-05-31 06:48:30 CEST LOG:  checkpoint complete: wrote 397 buffers (0.3%); 0 transaction log file(s) added, 0 removed, 404 recycled; write=1.748 s, sync=0.002 s, total=1.944 s; sync files=17, longest=0.000 s, average=0.000 s; distance=3914155 kB, estimate=6445471 kB
+1464670110.737 2016-05-31 06:48:30 CEST LOG:  checkpoint starting: immediate force wait
+1464670110.902 2016-05-31 06:48:30 CEST LOG:  checkpoint complete: wrote 217 buffers (0.2%); 0 transaction log file(s) added, 0 removed, 238 recycled; write=0.004 s, sync=0.000 s, total=0.164 s; sync files=2, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=5800924 kB
+1464671010.032 2016-05-31 07:03:30 CEST LOG:  checkpoint starting: time
+1464671460.112 2016-05-31 07:11:00 CEST LOG:  checkpoint complete: wrote 6536 buffers (5.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=450.047 s, sync=0.010 s, total=450.080 s; sync files=23, longest=0.005 s, average=0.000 s; distance=7279252 kB, estimate=7279252 kB
+1464671910.715 2016-05-31 07:18:30 CEST LOG:  checkpoint starting: time
+1464671911.024 2016-05-31 07:18:31 CEST FATAL:  terminating autovacuum process due to administrator command
+1464671911.321 2016-05-31 07:18:31 CEST LOG:  checkpoint complete: wrote 198 buffers (0.2%); 0 transaction log file(s) added, 0 removed, 445 recycled; write=0.433 s, sync=0.000 s, total=0.605 s; sync files=0, longest=0.000 s, average=0.000 s; distance=7139173 kB, estimate=7265244 kB
+1464671911.321 2016-05-31 07:18:31 CEST LOG:  checkpoint starting: immediate force wait
+1464671911.589 2016-05-31 07:18:31 CEST LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 435 recycled; write=0.001 s, sync=0.000 s, total=0.267 s; sync files=1, longest=0.000 s, average=0.000 s; distance=14549 kB, estimate=6540175 kB
+1464671912.217 2016-05-31 07:18:32 CEST LOG:  checkpoint starting: immediate force wait flush-all
+1464671912.225 2016-05-31 07:18:32 CEST LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=0.002 s, sync=0.000 s, total=0.007 s; sync files=3, longest=0.000 s, average=0.000 s; distance=3 kB, estimate=5886158 kB
+1464671912.334 2016-05-31 07:18:32 CEST LOG:  checkpoint starting: immediate force wait
+1464671912.337 2016-05-31 07:18:32 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=5297542 kB
+1464672812.942 2016-05-31 07:33:32 CEST LOG:  checkpoint starting: time
+1464672812.959 2016-05-31 07:33:32 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.017 s; sync files=62, longest=0.000 s, average=0.000 s; distance=156092 kB, estimate=4783397 kB
+1464673103.643 2016-05-31 07:38:23 CEST LOG:  checkpoint starting: immediate force wait
+1464673103.658 2016-05-31 07:38:23 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 10 recycled; write=0.001 s, sync=0.000 s, total=0.015 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=4305057 kB
+1464674003.672 2016-05-31 07:53:23 CEST LOG:  checkpoint starting: time
+1464674003.676 2016-05-31 07:53:23 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.000 s, total=0.004 s; sync files=4, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=3874553 kB
+1464674003.798 2016-05-31 07:53:23 CEST LOG:  checkpoint starting: immediate force wait
+1464674003.801 2016-05-31 07:53:23 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.002 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=3487097 kB
+1464674903.270 2016-05-31 08:08:23 CEST LOG:  checkpoint starting: time
+1464675353.065 2016-05-31 08:15:53 CEST LOG:  checkpoint complete: wrote 7465 buffers (5.7%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.782 s, sync=0.007 s, total=449.794 s; sync files=42, longest=0.003 s, average=0.000 s; distance=9532295 kB, estimate=9532295 kB
+1464675803.313 2016-05-31 08:23:23 CEST LOG:  checkpoint starting: time
+1464675807.760 2016-05-31 08:23:27 CEST LOG:  checkpoint complete: wrote 100936 buffers (77.0%); 0 transaction log file(s) added, 0 removed, 582 recycled; write=4.144 s, sync=0.042 s, total=4.446 s; sync files=36, longest=0.036 s, average=0.001 s; distance=8734734 kB, estimate=9452539 kB
+1464675807.760 2016-05-31 08:23:27 CEST LOG:  checkpoint starting: immediate force wait
+1464675808.193 2016-05-31 08:23:28 CEST LOG:  checkpoint complete: wrote 954 buffers (0.7%); 0 transaction log file(s) added, 0 removed, 533 recycled; write=0.019 s, sync=0.016 s, total=0.432 s; sync files=26, longest=0.016 s, average=0.000 s; distance=7713 kB, estimate=8508056 kB
+1464676707.237 2016-05-31 08:38:27 CEST LOG:  checkpoint starting: time
+1464676708.377 2016-05-31 08:38:28 CEST LOG:  checkpoint complete: wrote 2001 buffers (1.5%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=1.127 s, sync=0.006 s, total=1.140 s; sync files=34, longest=0.004 s, average=0.000 s; distance=9963438 kB, estimate=9963438 kB
+1464676708.378 2016-05-31 08:38:28 CEST LOG:  checkpoint starting: immediate force wait
+1464676708.803 2016-05-31 08:38:28 CEST LOG:  checkpoint complete: wrote 403 buffers (0.3%); 0 transaction log file(s) added, 0 removed, 608 recycled; write=0.010 s, sync=0.000 s, total=0.425 s; sync files=23, longest=0.000 s, average=0.000 s; distance=1781 kB, estimate=8967272 kB
+1464677380.567 2016-05-31 08:49:40 CEST LOG:  checkpoint starting: xlog
+1464677747.018 2016-05-31 08:55:47 CEST LOG:  checkpoint complete: wrote 4428 buffers (3.4%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=366.413 s, sync=0.017 s, total=366.450 s; sync files=41, longest=0.003 s, average=0.000 s; distance=13418214 kB, estimate=13418214 kB
+1464678280.379 2016-05-31 09:04:40 CEST LOG:  checkpoint starting: time
+1464678509.369 2016-05-31 09:08:29 CEST LOG:  checkpoint complete: wrote 3997 buffers (3.0%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=228.528 s, sync=0.024 s, total=228.990 s; sync files=38, longest=0.012 s, average=0.000 s; distance=13256905 kB, estimate=13402083 kB
+1464678509.369 2016-05-31 09:08:29 CEST LOG:  checkpoint starting: immediate force wait
+1464678513.407 2016-05-31 09:08:33 CEST LOG:  checkpoint complete: wrote 74227 buffers (56.6%); 0 transaction log file(s) added, 0 removed, 809 recycled; write=3.184 s, sync=0.049 s, total=4.038 s; sync files=34, longest=0.029 s, average=0.001 s; distance=3253786 kB, estimate=12387253 kB
+1464678909.655 2016-05-31 09:15:09 CEST LOG:  checkpoint starting: xlog
+1464679359.841 2016-05-31 09:22:39 CEST LOG:  checkpoint complete: wrote 75 buffers (0.1%); 0 transaction log file(s) added, 0 removed, 198 recycled; write=449.394 s, sync=0.022 s, total=450.185 s; sync files=35, longest=0.004 s, average=0.000 s; distance=13406494 kB, estimate=13406494 kB
+1464679413.544 2016-05-31 09:23:33 CEST LOG:  checkpoint starting: immediate force wait
+1464679414.353 2016-05-31 09:23:34 CEST LOG:  checkpoint complete: wrote 1824 buffers (1.4%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=0.029 s, sync=0.002 s, total=0.809 s; sync files=24, longest=0.001 s, average=0.000 s; distance=2345988 kB, estimate=12300443 kB
+1464679874.895 2016-05-31 09:31:14 CEST LOG:  checkpoint starting: xlog
+1464680067.559 2016-05-31 09:34:27 CEST LOG:  checkpoint complete: wrote 3537 buffers (2.7%); 0 transaction log file(s) added, 0 removed, 143 recycled; write=192.379 s, sync=0.023 s, total=192.664 s; sync files=43, longest=0.008 s, average=0.000 s; distance=13415471 kB, estimate=13415471 kB
+1464680361.597 2016-05-31 09:39:21 CEST LOG:  checkpoint starting: xlog
+1464680573.303 2016-05-31 09:42:53 CEST LOG:  checkpoint complete: wrote 4099 buffers (3.1%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=210.402 s, sync=0.031 s, total=211.706 s; sync files=38, longest=0.015 s, average=0.000 s; distance=13418465 kB, estimate=13418465 kB
+1464680880.732 2016-05-31 09:48:00 CEST LOG:  checkpoint starting: xlog
+1464681084.635 2016-05-31 09:51:24 CEST LOG:  checkpoint complete: wrote 4122 buffers (3.1%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=202.603 s, sync=0.045 s, total=203.902 s; sync files=40, longest=0.009 s, average=0.001 s; distance=13418522 kB, estimate=13418522 kB
+1464681214.601 2016-05-31 09:53:34 CEST LOG:  checkpoint starting: immediate force wait
+1464681215.306 2016-05-31 09:53:35 CEST LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=0.002 s, sync=0.000 s, total=0.705 s; sync files=1, longest=0.000 s, average=0.000 s; distance=9976057 kB, estimate=13074276 kB
+1464681216.179 2016-05-31 09:53:36 CEST LOG:  checkpoint starting: immediate force wait flush-all
+1464681216.932 2016-05-31 09:53:36 CEST LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 transaction log file(s) added, 71 removed, 537 recycled; write=0.002 s, sync=0.000 s, total=0.752 s; sync files=3, longest=0.000 s, average=0.000 s; distance=3 kB, estimate=11766849 kB
+1464681217.082 2016-05-31 09:53:37 CEST LOG:  checkpoint starting: immediate force wait
+1464681217.085 2016-05-31 09:53:37 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=10590164 kB
+1464682117.136 2016-05-31 10:08:37 CEST LOG:  checkpoint starting: time
+1464682117.151 2016-05-31 10:08:37 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.000 s, total=0.015 s; sync files=62, longest=0.000 s, average=0.000 s; distance=156092 kB, estimate=9546756 kB
+1464682410.556 2016-05-31 10:13:30 CEST LOG:  checkpoint starting: immediate force wait
+1464682410.574 2016-05-31 10:13:30 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 10 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.018 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=8592081 kB
+1464683310.674 2016-05-31 10:28:30 CEST LOG:  checkpoint starting: time
+1464683310.679 2016-05-31 10:28:30 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.000 s, total=0.004 s; sync files=4, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=7732874 kB
+1464683310.711 2016-05-31 10:28:30 CEST LOG:  checkpoint starting: immediate force wait
+1464683310.715 2016-05-31 10:28:30 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=6959586 kB
+1464684210.142 2016-05-31 10:43:30 CEST LOG:  checkpoint starting: time
+1464684660.030 2016-05-31 10:51:00 CEST LOG:  checkpoint complete: wrote 7681 buffers (5.9%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=449.877 s, sync=0.005 s, total=449.888 s; sync files=42, longest=0.002 s, average=0.000 s; distance=9467036 kB, estimate=9467036 kB
+1464685110.127 2016-05-31 10:58:30 CEST LOG:  checkpoint starting: time
+1464685113.937 2016-05-31 10:58:33 CEST LOG:  checkpoint complete: wrote 101444 buffers (77.4%); 0 transaction log file(s) added, 389 removed, 189 recycled; write=3.374 s, sync=0.028 s, total=3.810 s; sync files=36, longest=0.014 s, average=0.000 s; distance=8715449 kB, estimate=9391877 kB
+1464685113.937 2016-05-31 10:58:33 CEST LOG:  checkpoint starting: immediate force wait
+1464685114.470 2016-05-31 10:58:34 CEST LOG:  checkpoint complete: wrote 1114 buffers (0.8%); 0 transaction log file(s) added, 157 removed, 375 recycled; write=0.017 s, sync=0.008 s, total=0.532 s; sync files=26, longest=0.008 s, average=0.000 s; distance=9300 kB, estimate=8453620 kB
+1464686013.477 2016-05-31 11:13:33 CEST LOG:  checkpoint starting: time
+1464686014.598 2016-05-31 11:13:34 CEST LOG:  checkpoint complete: wrote 2216 buffers (1.7%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=1.110 s, sync=0.004 s, total=1.121 s; sync files=34, longest=0.004 s, average=0.000 s; distance=9898168 kB, estimate=9898168 kB
+1464686014.598 2016-05-31 11:13:34 CEST LOG:  checkpoint starting: immediate force wait
+1464686015.154 2016-05-31 11:13:35 CEST LOG:  checkpoint complete: wrote 396 buffers (0.3%); 0 transaction log file(s) added, 0 removed, 604 recycled; write=0.010 s, sync=0.000 s, total=0.556 s; sync files=23, longest=0.000 s, average=0.000 s; distance=1890 kB, estimate=8908541 kB
+1464686731.848 2016-05-31 11:25:31 CEST LOG:  checkpoint starting: xlog
+1464687061.974 2016-05-31 11:31:01 CEST LOG:  checkpoint complete: wrote 4393 buffers (3.4%); 0 transaction log file(s) added, 0 removed, 1 recycled; write=330.065 s, sync=0.037 s, total=330.126 s; sync files=43, longest=0.007 s, average=0.000 s; distance=13418310 kB, estimate=13418310 kB
+1464687609.339 2016-05-31 11:40:09 CEST LOG:  checkpoint starting: xlog
+1464687815.670 2016-05-31 11:43:35 CEST LOG:  checkpoint complete: wrote 3811 buffers (2.9%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=205.857 s, sync=0.014 s, total=206.331 s; sync files=40, longest=0.005 s, average=0.000 s; distance=13418496 kB, estimate=13418496 kB
+1464687815.670 2016-05-31 11:43:35 CEST LOG:  checkpoint starting: immediate force wait
+1464687818.440 2016-05-31 11:43:38 CEST LOG:  checkpoint complete: wrote 74502 buffers (56.8%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=1.940 s, sync=0.029 s, total=2.769 s; sync files=36, longest=0.020 s, average=0.000 s; distance=3748873 kB, estimate=12451533 kB
+1464688221.010 2016-05-31 11:50:21 CEST LOG:  checkpoint starting: xlog
+1464688671.905 2016-05-31 11:57:51 CEST LOG:  checkpoint complete: wrote 65 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 228 recycled; write=449.992 s, sync=0.024 s, total=450.895 s; sync files=39, longest=0.009 s, average=0.000 s; distance=13405214 kB, estimate=13405214 kB
+1464688718.588 2016-05-31 11:58:38 CEST LOG:  checkpoint starting: immediate force wait
+1464688719.441 2016-05-31 11:58:39 CEST LOG:  checkpoint complete: wrote 1981 buffers (1.5%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=0.028 s, sync=0.006 s, total=0.852 s; sync files=24, longest=0.004 s, average=0.000 s; distance=2470522 kB, estimate=12311745 kB
+1464689181.764 2016-05-31 12:06:21 CEST LOG:  checkpoint starting: xlog
+1464689373.778 2016-05-31 12:09:33 CEST LOG:  checkpoint complete: wrote 3500 buffers (2.7%); 0 transaction log file(s) added, 0 removed, 150 recycled; write=191.693 s, sync=0.049 s, total=192.014 s; sync files=43, longest=0.015 s, average=0.001 s; distance=13405554 kB, estimate=13405554 kB
+1464689671.358 2016-05-31 12:14:31 CEST LOG:  checkpoint starting: xlog
+1464689882.987 2016-05-31 12:18:02 CEST LOG:  checkpoint complete: wrote 4066 buffers (3.1%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=210.402 s, sync=0.023 s, total=211.629 s; sync files=40, longest=0.004 s, average=0.000 s; distance=13418496 kB, estimate=13418496 kB
+1464690199.157 2016-05-31 12:23:19 CEST LOG:  checkpoint starting: xlog
+1464690406.843 2016-05-31 12:26:46 CEST LOG:  checkpoint complete: wrote 4259 buffers (3.2%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=206.393 s, sync=0.052 s, total=207.685 s; sync files=40, longest=0.012 s, average=0.001 s; distance=13418539 kB, estimate=13418539 kB
+1464690519.659 2016-05-31 12:28:39 CEST LOG:  checkpoint starting: immediate force wait
+1464690520.366 2016-05-31 12:28:40 CEST LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=0.002 s, sync=0.000 s, total=0.706 s; sync files=1, longest=0.000 s, average=0.000 s; distance=9506446 kB, estimate=13027330 kB
+1464690521.242 2016-05-31 12:28:41 CEST LOG:  checkpoint starting: immediate force wait flush-all
+1464690521.976 2016-05-31 12:28:41 CEST LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 transaction log file(s) added, 78 removed, 502 recycled; write=0.002 s, sync=0.000 s, total=0.733 s; sync files=3, longest=0.000 s, average=0.000 s; distance=4 kB, estimate=11724597 kB
+1464690522.155 2016-05-31 12:28:42 CEST LOG:  checkpoint starting: immediate force wait
+1464690522.158 2016-05-31 12:28:42 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=10552138 kB
+1464691422.645 2016-05-31 12:43:42 CEST LOG:  checkpoint starting: time
+1464691422.658 2016-05-31 12:43:42 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.000 s, total=0.014 s; sync files=62, longest=0.000 s, average=0.000 s; distance=156092 kB, estimate=9512533 kB
+1464691716.465 2016-05-31 12:48:36 CEST LOG:  checkpoint starting: immediate force wait
+1464691716.484 2016-05-31 12:48:36 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 9 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.018 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=8561280 kB
+1464692616.573 2016-05-31 13:03:36 CEST LOG:  checkpoint starting: time
+1464692616.579 2016-05-31 13:03:36 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.005 s; sync files=4, longest=0.000 s, average=0.000 s; distance=12 kB, estimate=7705153 kB
+1464692616.620 2016-05-31 13:03:36 CEST LOG:  checkpoint starting: immediate force wait
+1464692616.624 2016-05-31 13:03:36 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.000 s, total=0.003 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=6934638 kB
+1464693517.007 2016-05-31 13:18:37 CEST LOG:  checkpoint starting: time
+1464693967.109 2016-05-31 13:26:07 CEST LOG:  checkpoint complete: wrote 8354 buffers (6.4%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=450.087 s, sync=0.010 s, total=450.102 s; sync files=42, longest=0.003 s, average=0.000 s; distance=9412943 kB, estimate=9412943 kB
+1464694416.779 2016-05-31 13:33:36 CEST LOG:  checkpoint starting: immediate force wait
+1464694419.594 2016-05-31 13:33:39 CEST LOG:  checkpoint complete: wrote 102246 buffers (78.0%); 0 transaction log file(s) added, 391 removed, 184 recycled; write=2.367 s, sync=0.022 s, total=2.815 s; sync files=38, longest=0.020 s, average=0.000 s; distance=8708684 kB, estimate=9342517 kB
+1464695316.722 2016-05-31 13:48:36 CEST LOG:  checkpoint starting: time
+1464695320.134 2016-05-31 13:48:40 CEST LOG:  checkpoint complete: wrote 1487 buffers (1.1%); 0 transaction log file(s) added, 0 removed, 531 recycled; write=3.067 s, sync=0.006 s, total=3.411 s; sync files=38, longest=0.005 s, average=0.000 s; distance=9859007 kB, estimate=9859007 kB
+1464695320.134 2016-05-31 13:48:40 CEST LOG:  checkpoint starting: immediate force wait
+1464695320.710 2016-05-31 13:48:40 CEST LOG:  checkpoint complete: wrote 1053 buffers (0.8%); 0 transaction log file(s) added, 79 removed, 523 recycled; write=0.016 s, sync=0.001 s, total=0.576 s; sync files=23, longest=0.001 s, average=0.000 s; distance=5045 kB, estimate=8873611 kB
+1464696042.207 2016-05-31 14:00:42 CEST LOG:  checkpoint starting: xlog
+1464696379.830 2016-05-31 14:06:19 CEST LOG:  checkpoint complete: wrote 4408 buffers (3.4%); 0 transaction log file(s) added, 0 removed, 0 recycled; write=337.574 s, sync=0.019 s, total=337.623 s; sync files=72, longest=0.008 s, average=0.000 s; distance=13404243 kB, estimate=13404243 kB
+1464696912.032 2016-05-31 14:15:12 CEST LOG:  checkpoint starting: xlog
+1464697121.263 2016-05-31 14:18:41 CEST LOG:  checkpoint complete: wrote 3907 buffers (3.0%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=208.762 s, sync=0.011 s, total=209.231 s; sync files=41, longest=0.004 s, average=0.000 s; distance=13418509 kB, estimate=13418509 kB
+1464697121.264 2016-05-31 14:18:41 CEST LOG:  checkpoint starting: immediate force wait
+1464697124.081 2016-05-31 14:18:44 CEST LOG:  checkpoint complete: wrote 74458 buffers (56.8%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=1.983 s, sync=0.033 s, total=2.817 s; sync files=36, longest=0.031 s, average=0.000 s; distance=3732716 kB, estimate=12449929 kB
+1464697515.218 2016-05-31 14:25:15 CEST LOG:  checkpoint starting: xlog
+1464697965.719 2016-05-31 14:32:45 CEST LOG:  checkpoint complete: wrote 60 buffers (0.0%); 0 transaction log file(s) added, 0 removed, 227 recycled; write=449.786 s, sync=0.010 s, total=450.501 s; sync files=39, longest=0.004 s, average=0.000 s; distance=13404963 kB, estimate=13404963 kB
+1464698024.265 2016-05-31 14:33:44 CEST LOG:  checkpoint starting: immediate force wait
+1464698025.114 2016-05-31 14:33:45 CEST LOG:  checkpoint complete: wrote 1945 buffers (1.5%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=0.031 s, sync=0.002 s, total=0.848 s; sync files=24, longest=0.000 s, average=0.000 s; distance=2461636 kB, estimate=12310631 kB
+1464698485.749 2016-05-31 14:41:25 CEST LOG:  checkpoint starting: xlog
+1464698679.206 2016-05-31 14:44:39 CEST LOG:  checkpoint complete: wrote 3513 buffers (2.7%); 0 transaction log file(s) added, 0 removed, 150 recycled; write=193.172 s, sync=0.037 s, total=193.457 s; sync files=44, longest=0.013 s, average=0.000 s; distance=13414431 kB, estimate=13414431 kB
+1464698975.324 2016-05-31 14:49:35 CEST LOG:  checkpoint starting: xlog
+1464699187.713 2016-05-31 14:53:07 CEST LOG:  checkpoint complete: wrote 4061 buffers (3.1%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=211.000 s, sync=0.056 s, total=212.388 s; sync files=40, longest=0.009 s, average=0.001 s; distance=13418489 kB, estimate=13418489 kB
+1464699504.981 2016-05-31 14:58:24 CEST LOG:  checkpoint starting: xlog
+1464699712.028 2016-05-31 15:01:52 CEST LOG:  checkpoint complete: wrote 4265 buffers (3.3%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=205.780 s, sync=0.027 s, total=207.046 s; sync files=39, longest=0.006 s, average=0.000 s; distance=13418532 kB, estimate=13418532 kB
+1464700404.390 2016-05-31 15:13:24 CEST LOG:  checkpoint starting: time
+1464700854.732 2016-05-31 15:20:54 CEST LOG:  checkpoint complete: wrote 46869 buffers (35.8%); 0 transaction log file(s) added, 0 removed, 819 recycled; write=449.646 s, sync=0.000 s, total=450.342 s; sync files=38, longest=0.000 s, average=0.000 s; distance=9513668 kB, estimate=13028045 kB
+1464701169.838 2016-05-31 15:26:09 CEST LOG:  received fast shutdown request
+1464701169.838 2016-05-31 15:26:09 CEST LOG:  aborting any active transactions
+1464701169.838 2016-05-31 15:26:09 CEST LOG:  autovacuum launcher shutting down
+1464701169.849 2016-05-31 15:26:09 CEST LOG:  shutting down
+1464701169.850 2016-05-31 15:26:09 CEST LOG:  checkpoint starting: shutdown immediate
+1464701170.591 2016-05-31 15:26:10 CEST LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 transaction log file(s) added, 78 removed, 502 recycled; write=0.001 s, sync=0.000 s, total=0.741 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=11725241 kB
+1464701170.664 2016-05-31 15:26:10 CEST LOG:  database system is shut down
