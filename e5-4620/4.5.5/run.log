@@ -1,0 +1,69 @@
+mkdir: cannot create directory ‘/30’: Permission denied
+1464377688 2016-05-27 19:34:48 pgbench scale=30 run=1
+1464377688 2016-05-27 19:34:48 pgbench scale=30 run=1 : init
+1464377694 2016-05-27 19:34:54 pgbench scale=30 run=1 : warmup
+../run.sh: line 36: /30/1/warmup.log: No such file or directory
+1464377695 2016-05-27 19:34:55 pgbench scale=30 run=1 clients=1 : read-only
+../run.sh: line 47: /30/1/read-only-1.log: No such file or directory
+1464377695 2016-05-27 19:34:55 pgbench scale=30 run=1 clients=1 : read-write
+../run.sh: line 55: /30/1/read-write-1.log: No such file or directory
+1464377695 2016-05-27 19:34:55 pgbench scale=30 run=1 clients=16 : read-only
+../run.sh: line 47: /30/1/read-only-16.log: No such file or directory
+1464377695 2016-05-27 19:34:55 pgbench scale=30 run=1 clients=16 : read-write
+../run.sh: line 55: /30/1/read-write-16.log: No such file or directory
+1464377695 2016-05-27 19:34:55 pgbench scale=30 run=1 clients=32 : read-only
+../run.sh: line 47: /30/1/read-only-32.log: No such file or directory
+1464377695 2016-05-27 19:34:55 pgbench scale=30 run=1 clients=32 : read-write
+../run.sh: line 55: /30/1/read-write-32.log: No such file or directory
+1464377695 2016-05-27 19:34:55 pgbench scale=30 run=1 clients=64 : read-only
+../run.sh: line 47: /30/1/read-only-64.log: No such file or directory
+1464377695 2016-05-27 19:34:55 pgbench scale=30 run=1 clients=64 : read-write
+../run.sh: line 55: /30/1/read-write-64.log: No such file or directory
+1464377695 2016-05-27 19:34:55 pgbench scale=30 clients=64 run=1 : done
+mkdir: cannot create directory ‘/30’: Permission denied
+1464377695 2016-05-27 19:34:55 pgbench scale=30 run=2
+1464377696 2016-05-27 19:34:56 pgbench scale=30 run=2 : init
+1464377702 2016-05-27 19:35:02 pgbench scale=30 run=2 : warmup
+../run.sh: line 36: /30/2/warmup.log: No such file or directory
+1464377703 2016-05-27 19:35:03 pgbench scale=30 run=2 clients=1 : read-only
+../run.sh: line 47: /30/2/read-only-1.log: No such file or directory
+1464377703 2016-05-27 19:35:03 pgbench scale=30 run=2 clients=1 : read-write
+../run.sh: line 55: /30/2/read-write-1.log: No such file or directory
+1464377703 2016-05-27 19:35:03 pgbench scale=30 run=2 clients=16 : read-only
+../run.sh: line 47: /30/2/read-only-16.log: No such file or directory
+1464377703 2016-05-27 19:35:03 pgbench scale=30 run=2 clients=16 : read-write
+../run.sh: line 55: /30/2/read-write-16.log: No such file or directory
+1464377703 2016-05-27 19:35:03 pgbench scale=30 run=2 clients=32 : read-only
+../run.sh: line 47: /30/2/read-only-32.log: No such file or directory
+1464377703 2016-05-27 19:35:03 pgbench scale=30 run=2 clients=32 : read-write
+../run.sh: line 55: /30/2/read-write-32.log: No such file or directory
+1464377703 2016-05-27 19:35:03 pgbench scale=30 run=2 clients=64 : read-only
+../run.sh: line 47: /30/2/read-only-64.log: No such file or directory
+1464377703 2016-05-27 19:35:03 pgbench scale=30 run=2 clients=64 : read-write
+../run.sh: line 55: /30/2/read-write-64.log: No such file or directory
+1464377703 2016-05-27 19:35:03 pgbench scale=30 clients=64 run=2 : done
+mkdir: cannot create directory ‘/30’: Permission denied
+1464377703 2016-05-27 19:35:03 pgbench scale=30 run=3
+1464377704 2016-05-27 19:35:04 pgbench scale=30 run=3 : init
+1464377711 2016-05-27 19:35:11 pgbench scale=30 run=3 : warmup
+../run.sh: line 36: /30/3/warmup.log: No such file or directory
+1464377711 2016-05-27 19:35:11 pgbench scale=30 run=3 clients=1 : read-only
+../run.sh: line 47: /30/3/read-only-1.log: No such file or directory
+1464377711 2016-05-27 19:35:11 pgbench scale=30 run=3 clients=1 : read-write
+../run.sh: line 55: /30/3/read-write-1.log: No such file or directory
+1464377711 2016-05-27 19:35:11 pgbench scale=30 run=3 clients=16 : read-only
+../run.sh: line 47: /30/3/read-only-16.log: No such file or directory
+1464377711 2016-05-27 19:35:11 pgbench scale=30 run=3 clients=16 : read-write
+../run.sh: line 55: /30/3/read-write-16.log: No such file or directory
+1464377711 2016-05-27 19:35:11 pgbench scale=30 run=3 clients=32 : read-only
+../run.sh: line 47: /30/3/read-only-32.log: No such file or directory
+1464377711 2016-05-27 19:35:11 pgbench scale=30 run=3 clients=32 : read-write
+../run.sh: line 55: /30/3/read-write-32.log: No such file or directory
+1464377712 2016-05-27 19:35:12 pgbench scale=30 run=3 clients=64 : read-only
+../run.sh: line 47: /30/3/read-only-64.log: No such file or directory
+1464377712 2016-05-27 19:35:12 pgbench scale=30 run=3 clients=64 : read-write
+../run.sh: line 55: /30/3/read-write-64.log: No such file or directory
+1464377712 2016-05-27 19:35:12 pgbench scale=30 clients=64 run=3 : done
+mkdir: cannot create directory ‘/2500’: Permission denied
+1464377712 2016-05-27 19:35:12 pgbench scale=2500 run=1
+1464377712 2016-05-27 19:35:12 pgbench scale=2500 run=1 : init
